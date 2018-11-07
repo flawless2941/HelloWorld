@@ -9,18 +9,13 @@ using namespace std ;
 
 int main(int argc, char** argv) 
 	{
-<<<<<<< HEAD
+
 	cout<<"�п�J�T�ӼơG"<<endl;
 	int a,b,c ;
 	cin>>a>>b>>c;
 	cout<<"�T�ӼƤ��̤j���Ƭ��G"<<max(a,b,c)<<endl;
 	cout<<"        �̤p���Ƭ��G"<<min(a,b,c)<<endl; 
-=======
-	cout<<"請輸入三個數："<<endl;
-	int a,b,c ;
-	cin>>a>>b>>c;
-	cout<<"三個數中最大的數為："<<max(a,b,c)<<endl;
-	cout<<"        最小的數為："<<min(a,b,c)<<endl; 
->>>>>>> 184a25946b67146f0827f845fcc88a0383d1c480
+
+
 	return 0;
 } 
