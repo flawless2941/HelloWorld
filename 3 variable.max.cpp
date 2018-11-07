@@ -1,4 +1,4 @@
-#include <iostream> /* git test */
+#include <iostream> /* git test 12222*/
 #define min(x,y,z) ((a<b ? a:b)<c ? (a<b ?a:b) : c) 
 #define  max(a,b,c) ((a>b ? a:b) > c? (a>b ? a:b) :c )
 /*test*/
