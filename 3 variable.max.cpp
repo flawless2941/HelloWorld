@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> /* git test */
 #define min(x,y,z) ((a<b ? a:b)<c ? (a<b ?a:b) : c) 
 #define  max(a,b,c) ((a>b ? a:b) > c? (a>b ? a:b) :c )
 
@@ -9,10 +9,10 @@ using namespace std ;
 
 int main(int argc, char** argv) 
 	{
-	cout<<"½Ð¿é¤J¤T­Ó¼Æ¡G"<<endl;
+	cout<<"è«‹è¼¸å…¥ä¸‰å€‹æ•¸ï¼š"<<endl;
 	int a,b,c ;
 	cin>>a>>b>>c;
-	cout<<"¤T­Ó¼Æ¤¤³Ì¤jªº¼Æ¬°¡G"<<max(a,b,c)<<endl;
-	cout<<"        ³Ì¤pªº¼Æ¬°¡G"<<min(a,b,c)<<endl; 
+	cout<<"ä¸‰å€‹æ•¸ä¸­æœ€å¤§çš„æ•¸ç‚ºï¼š"<<max(a,b,c)<<endl;
+	cout<<"        æœ€å°çš„æ•¸ç‚ºï¼š"<<min(a,b,c)<<endl; 
 	return 0;
 } 
