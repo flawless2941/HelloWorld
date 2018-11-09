@@ -15,5 +15,5 @@ int main(int argc, char** argv)
 	cout<<"三個數中最大的數為："<<max(a,b,c)<<endl;
 	cout<<"        最小的數為："<<min(a,b,c)<<endl; 
 	return 0;
-	/* 11/9 remote commit */
+	/* 11/9 another remote commit */
 } 
