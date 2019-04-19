@@ -1,8 +1,8 @@
 #include <iostream> //ssh test
 #define min(x,y,z) ((a<b ? a:b)<c ? (a<b ?a:b) : c) 
 #define  max(a,b,c) ((a>b ? a:b) > c? (a>b ? a:b) :c )
-/*test*/
-// commit ref test
+/*test2*/
+// commit ref test 
 using namespace std ;
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
