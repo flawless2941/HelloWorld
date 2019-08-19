@@ -4,7 +4,7 @@ beginner
 ------------------------------------
 
 separation line
-
+```
         |---------------------------|
         |                           |
         |   user thread requesting  | .....
@@ -27,5 +27,7 @@ separation line
         |  work to CMWQ workqueue   |
         |                           |
         |---------------------------|
-       
+
+```
+
 test
