@@ -1,6 +1,8 @@
 # HelloWorld
 beginner
 
+![Screen](./pic/getpid.png)
+
 ------------------------------------
 
 separation line
